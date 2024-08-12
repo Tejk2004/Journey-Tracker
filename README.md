@@ -1,7 +1,9 @@
 # Journey-Tracker
-The Journey Tracker is a C++ project designed to help users find the shortest path between metro stations numbered from 0 to 9. The program employs Dijkstra's algorithm, a popular and efficient method for finding the shortest paths in a graph. Graph Representation: The metro stations are represented as nodes in a graph, and the connections between them (with their respective distances) are represented as weighted edges. The graph is undirected, meaning the path can be traversed in both directions.
+The Journey Tracker is a C++ project designed to help users find the shortest path between metro stations numbered from 0 to 9. The program employs Dijkstra's algorithm, a popular and efficient method for finding the shortest paths in a graph. 
 
 KEY FEATURES:- 
+
+Graph Representation: The metro stations are represented as nodes in a graph, and the connections between them (with their respective distances) are represented as weighted edges. The graph is undirected, meaning the path can be traversed in both directions.
 
 Efficient Pathfinding: Using Dijkstra's algorithm, the program computes the shortest distance from the user's current station to the desired destination. The algorithm efficiently finds the shortest path by exploring all possible routes and updating the shortest known distance for each station.
 
